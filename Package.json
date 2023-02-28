@@ -1,8 +1,8 @@
 {
-	"name": "ZiaRein",
+	"name": "Pavel",
 	"version": "1.0.2",
 	"description": "A simple Facebook Messenger Bot By ZiaRein",
-	"main": "ZiaRein.js",
+	"main": "Pavel.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/rxpavel1/Rx-Pavel-Islam-/issues"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "Zia Rein",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
+		"url": "https://github.com/rxpavel1/Rx-Pavel-Islam-/issues"
 	},
-	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"homepage": "https://github.com/rxpavel1/Rx-Pavel-Islam-/issues",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
